@@ -1,4 +1,4 @@
-# To create the containers
+# To create containers
 
 docker-compose up
 
